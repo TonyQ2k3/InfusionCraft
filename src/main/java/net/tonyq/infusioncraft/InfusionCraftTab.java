@@ -23,6 +23,7 @@ public class InfusionCraftTab {
                         pOutput.accept(ItemRegistry.INFUSION_CORE_TIER_1.get());
                         pOutput.accept(ItemRegistry.INFUSION_CORE_TIER_2.get());
                         pOutput.accept(ItemRegistry.INFUSION_CORE_TIER_3.get());
+                        pOutput.accept(ItemRegistry.ENDERITE.get());
                     }))
                     .build());
 }

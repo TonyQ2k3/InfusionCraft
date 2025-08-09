@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "$#$",
+    "#@#",
+    "$#$"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "@": {
+      "item": "infusioncraft:enderite"
+    },
+    "$": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "infusioncraft:infusion_core_tier_3"
+  }
+}

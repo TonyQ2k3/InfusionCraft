@@ -21,5 +21,6 @@ public class ItemRegistry {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> INFUSION_CORE_TIER_3 = ITEMS.register("infusion_core_tier_3",
             () -> new Item(new Item.Properties()));
-
+    public static final RegistryObject<Item> ENDERITE = ITEMS.register("enderite",
+            () -> new Item(new Item.Properties()));
 }
